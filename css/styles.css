@@ -426,6 +426,8 @@
       font-size: 18px;
       line-height: 28px;
       letter-spacing: 1.56;
+      overflow: auto;
+
   }
   
   .portfolio-link:hover, 
